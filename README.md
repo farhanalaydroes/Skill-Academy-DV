@@ -12,7 +12,7 @@
 <p align="justify">
   Tools Visualisasi :
 </p>
-<a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73'><img src="README/datastudiologo.png"></a>
+<a href='https://public.tableau.com/views/SkillAcademyTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'><img src="README/tableaulogo.png"></a>
 
 
 <p align="justify">
@@ -24,27 +24,11 @@
 <details><summary>Portofolio Dashboard</summary>
 
 <p align="center">
-  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73'><img src="README/Dashboard.png"></a>
+  <a href='https://public.tableau.com/views/SkillAcademyTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'><img src="README/Dashboard detail.png"></a>
 </p> 
 
 <p align="center">
-  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi tanpa di filter.
-</p>
-  
-<p align="center">
-  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73'><img src="README/Dashboard Male.png"></a>
-</p> 
-
-<p align="center">
-  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi dengan filter data hanya Pria.
-</p>
-  
-<p align="center">
-  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73'><img src="README/Dashboard Date.png"></a>
-</p> 
-
-<p align="center">
-  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi dengan filter data di tahun sebelumnya.
+  Dashboard Diatas berisi informasi terkait rantai penjualan kopi di negara Amerika Serikat.
 </p>
  
 </details>
@@ -52,7 +36,7 @@
 <details><summary>Certificate of Completion</summary>
  
 <p align="center">
-  <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/Sertifikat.png"></a>
+  <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/CERT-C6RCSGDE.jpeg"></a>
 </p> 
   
  </details>
