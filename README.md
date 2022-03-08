@@ -12,7 +12,7 @@
 <p align="justify">
   Tools Visualisasi :
 </p>
-<a href='https://public.tableau.com/views/SkillAcademyTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'><img src="README/tableaulogo.png"></a>
+<a href='https://public.tableau.com/app/profile/muhammad.farhan8590/viz/SkillAcademyTableau/Dashboard1'><img src="README/tableaulogo.png"></a>
 
 
 <p align="justify">
@@ -24,7 +24,7 @@
 <details><summary>Portofolio Dashboard</summary>
 
 <p align="center">
-  <a href='https://public.tableau.com/views/SkillAcademyTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'><img src="README/Dashboard detail.png"></a>
+  <a href='https://public.tableau.com/app/profile/muhammad.farhan8590/viz/SkillAcademyTableau/Dashboard1'><img src="README/Dashboard detail.png"></a>
 </p> 
 
 <p align="center">
